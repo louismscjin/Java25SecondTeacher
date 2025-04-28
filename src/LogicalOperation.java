@@ -35,14 +35,14 @@ public class LogicalOperation {
         /*
          *  / : 除法
          */
-        // int a = 5;
-        // int b = 12;
+        int a = 5;
+        int b = 12;
 
         // double quotiend1  = a / b;
         // System.out.println(quotiend1);
 
-        // double quotiend2  = b / a;
-        // System.out.println(quotiend2);
+        double quotiend2  = b / a;
+        System.out.println(quotiend2);
 
         /*
          *  % : 餘數
